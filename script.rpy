@@ -16,6 +16,8 @@
 #   blah blah blah
 #   jump var3
 
+#INDENTS:  "{i}---{/i}"
+
 # *this is so you can return back to normal story
 
 
