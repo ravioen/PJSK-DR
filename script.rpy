@@ -1,4 +1,4 @@
-﻿# defines characters
+# defines characters
 # characters use their stage outfits
 define ic = Character("Ichika")
 define sa = Character("Saki")
@@ -21,6 +21,12 @@ define ma = Character("Mafuyu")
 define yu = Character("Yuki")
 define miz = Character("Mizuki")
 define en = Character("Ena")
+define mik = Character("Miku Miku OOEO")
+define rin = Character("Rin")
+define len = Character("Len")
+define lu = Character("Luka")
+define mei = Character("MEIKO")
+define daddy = Character("KAITO")
 
 # general "unknown" character
 define uk = Character("???")
@@ -47,7 +53,7 @@ label start:
     "(No, wait. My troupe had agreed to meet in our SEKAI for practice so we didn’t have to do it in the snow, and I tapped on The World Hasn’t Even Started Yet. I pressed play and it faded to white as normal, but then my memory cuts out.)"
     "(Looking around, a note caught my eye. It’s right next to my arms, and it was placed, seemingly deliberately, on the desk. It was very obviously addressed to me on the outside.)"
     
-    hide nene confuse
+    hide nene think
 
     uk "Good morning, Nene!"
     uk "Welcome to the first day of the rest of our lives, and don’t forget that we have an assembly later! I’m sure you can find the gym easily enough."
@@ -130,13 +136,10 @@ label start:
     with dissolve
 
     uk "20. Considering we all are apart of some sort of group, I think that’s the last of new arrivals."
-
     "(Rui. Not even surpised that he was the one to assume that all of us were here. It looks like both him and Tsukasa are also in their PXL uniforms.)"
     uk "Alright then, how about some introductions? Let’s all get into a circle by group~!"
     "(Ah, Mizuki. I’m glad to see that they’re much more confident now, and much happier too.)"
     "(Everyone moved to sit in a circle on the gym floor, seemingly by group. Just as Mizuki requested.)"
-
-
     mi "Black hair, you should start!"
     
     # leo/need
@@ -145,7 +148,7 @@ label start:
     uk "Honami Mochizuki, Ultimate Drummer for Leo/Need!"
     uk "Shiho Hinomori, Ultimate Bass Guitarist."
     
-    #mmj
+    # mmj
     uk "Minori Hanasoto! Uhm, I was assigned the Ultimate Unlucky Student… But, I’m apart of More More Jump! and trying to work past it!"
     "(That’s gotta hurt…)"
     uk "Ah, sorry again, Minori…"
@@ -155,11 +158,33 @@ label start:
     uk "Shizuku Hinomori! I’m the Ultimate Model, and the older sister of Shiho!"
     "(I looked over and saw Shiho bashfully pouting.)"
     
+    # vbs
+    uk "Uhm… K-Kohane Azusawa, the Ultimate Photographer..! I’m apart of Vivid Bad Squad, too."
+    uk "An Shiraishi, the Ultimate Singer and also apart of Vivid Bad Squad!"
+    uk "Toya Aoyagi, the Ultimate Street Artist. It’s a pleasure to meet all of you."
+    uk "Akito Shinonome, Ultimate Beatboxer."
     
-
-
-
-
+    # wxs
+    "(Well, now it’s Tsukasa’s turn. My turn’s coming up soon… Wait, I didn’t realize that Rui and Tsukasa were sitting next to each other until now. Huh, weird. I’m just glad that they’re getting close. Don’t want a repeat of middle school…)"
+    star "Tsukasa Tenma, the Ultimate Actor and a world future star!! I’m also the lead actor for Wonderlands x Showtime and the greatest brother in the world!"
+    "(I still wonder how him and Emu actually make those sparkles and such. I asked Emu, but she only told me that you “have to be wonderhoy enough!”. That was a bit vague for me…)"
+    "(It seems that Saki, Toya, and a girl with long, white hair all fondly smiled at his last comment. When did the Tenma family grow again? I don’t remember that girl.)"
+    ru "Rui Kamishiro, the Ultimate Inventor! I’m also the director at Wonderlands x Showtime."
+    
+    show emu smile
+    em "Emu Otori, the Ultimate Clown and a proud member of Wonderlands x Showtime! Wan-wan… WONDAHOI!!!"
+    hide emu smile
+    show nene think
+    ne "N-Nene Kusanagi… Ultimate Diva and apart of Wonderlands x Showtime…. Ah, she/they, please."
+    hide nene think
+    "(It… wasn’t that bad to introduce myself to these 16-ish new people. Everyone showed interest in what I said. Maybe this group wont be too bad to be here with.)"
+    
+    # ji
+    uk "U-uhm… Kanade Yoisaki… Ultimate Composer…"
+    "(Ah, so the newest Tenma is Kanade.)"
+    mi "K~… Don’t forget that you’re apart of N25!"
+    ka "Ah.. yeah, I’m the composer for N25…"
+    
 
 
     # This ends the game.
