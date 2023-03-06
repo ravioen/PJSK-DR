@@ -136,6 +136,25 @@ label start:
     "(Ah, Mizuki. I’m glad to see that they’re much more confident now, and much happier too.)"
     "(Everyone moved to sit in a circle on the gym floor, seemingly by group. Just as Mizuki requested.)"
 
+
+    mi "Black hair, you should start!"
+    
+    # leo/need
+    uk "Ah, alright.. I’m Ichika Hoshino, the Ultimate Guitarist! I’m apart of Leo/Need."
+    uk "Saki Tenma! I’m the Ultimate Pianist, and the keyboardist in Leo/Need!!"
+    uk "Honami Mochizuki, Ultimate Drummer for Leo/Need!"
+    uk "Shiho Hinomori, Ultimate Bass Guitarist."
+    
+    #mmj
+    uk "Minori Hanasoto! Uhm, I was assigned the Ultimate Unlucky Student… But, I’m apart of More More Jump! and trying to work past it!"
+    "(That’s gotta hurt…)"
+    uk "Ah, sorry again, Minori…"
+    minn "Don’t worry, Haruka, you weren’t in control of it!"
+    ha "Of course, but I still feel bad. Oh, and I’m Haruka Kiritani, the Ultimate Idol and a member of More More Jump!!"
+    uk "Airi Momoi! Ultimate Dancer!"
+    uk "Shizuku Hinomori! I’m the Ultimate Model, and the older sister of Shiho!"
+    "(I looked over and saw Shiho bashfully pouting.)"
+    
     
 
 
