@@ -1,5 +1,24 @@
 # defines characters
 # characters use their stage outfits
+
+
+# deleted later
+# in order to create menus (example)
+# menu:
+#   "AAAAAAAA": 
+#       jump variable
+#   "ew":
+#       jump var2
+# label variable
+#   blah blah blah
+#   jump var3*
+# label var2
+#   blah blah blah
+#   jump var3
+
+# *this is so you can return back to normal story
+
+
 define ic = Character("Ichika")
 define sa = Character("Saki")
 define ho = Character("Honami")
