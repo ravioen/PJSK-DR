@@ -205,7 +205,7 @@ label start:
     en "Well? Get on with it!"
     mik "Fine, fine! Bratty, much? Well then, you’re all here forever and ever and ever… {i}unless{/i} you kill someone!"
     "(You could hear a pin drop. I just barely realized that I had begun to hold my breath.)"
-    "({i}Kil{/i} someone? Who would be so desperate to get out that they’d murder another person? Especially in a group where everyone you know at least knows someone who knows who you killed…)
+    "({i}Kil{/i} someone? Who would be so desperate to get out that they’d murder another person? Especially in a group where everyone you know at least knows someone who knows who you killed…)"
     mik "If you end up killing someone, you and your group can go back to regular life! A comforting thought, isn’t it?"
     mik "Oh, and before you decide to reach for your phones and stop whatever song born of your feelings, don’t! We have your phones hidden ni~ce and well~♪!"
     ginger "What the hell are you talking about?! You can’t just trap us here, that’s illegal!"
