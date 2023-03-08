@@ -46,7 +46,7 @@ define rin = Character("Rin")
 define len = Character("Len")
 define lu = Character("Luka")
 define mei = Character("MEIKO")
-define daddy = Character("KAITO")
+define kai = Character("KAITO")
 
 # general "unknown" character
 define uk = Character("???")
@@ -210,6 +210,65 @@ label start:
     mik "Oh, and before you decide to reach for your phones and stop whatever song born of your feelings, don’t! We have your phones hidden ni~ce and well~♪!"
     ginger "What the hell are you talking about?! You can’t just trap us here, that’s illegal!"
     toy "Akito, I don’t think she cares. This isn’t our Miku…"
-
+    "(Akito scowled at that, obviously holding himself back from saying more. I think kind Akito is still scarier, though.)"
+    ma "…Who’s "we"?"
+    mik "Ah, of course! Ev~eryone~♪! It’s time for introductions~♪!"
+    mik "These are the teachers during your stay here! Do any of you {i}not{/i} know who these people are? No? Good! I’m not trying to be here longer than I have to."
+    kai "Miku."
+    mik "Oh, shut it, KAITO. Hows about you 5 hand out the handbooks {i}they{/i} took so long to make?"
+    kai "… Fine. Does everyone remember their group assignments?"
+    "(The rest of the group nodded, and they went off stage to hand out our “handbooks”. Was the school theme {i}really{/i} necessary?)"
+    "((Luka went towards Leo/Need, and she seemed half asleep as she gave the 4 their handbooks. I think I even spotted them trading theirs as soon as they turned the strange devices on. Rin and Len, in a weird sync, passed out theirs to More More Jump! and Vivid Bad Squad respectively. Regrettably, KAITO passed out ours. MEIKO passed out N25’s with a smile that will haunt my dreams later.)"
+    mik "I implore you to read the rules, as all of them have the same punishment for breaking them. Well, except for rules 1 and 2; those are just guidelines, to be honest. {i}Unless{/i} you make your way into one of the off limit areas. Then the punishment is the same as all the other rules!"
+    "(I open up the weird contraption they’re calling our handbooks. It’s strangely advanced. I flipped to the rules section and was about to read it, when suddenly…)"
+    star "Rui, no!! We need these!!"
+    "(I looked up to see Tsukasa struggling to hold Rui’s wrists away from the handbook that dropped on the floor, constantly having to grab one or the other again and again. I think he was trying to pull him away, but that’s…pretty hard. I still remember Rui carrying Nenerobo to me when she was finished…)"
+    ru "{i}Tsukasa-kunnn!{/i} I have to see how this works! If we get out of here then—"
+    star "{i}Theen,{/i} you’ll have the handbook and everything you need to dissect it! Not while we’re still here!!"
+    "(Instead of focusing on… {i}that{/i}, I turned back to my handbook that had turned on. I could still see them out of the corner of my eye, but I just tuned them out. Actually, ignore everything I just said. KAITO just picked them up with the collar of their respective uniforms. Rui looked like a cat who was just picked up by the scruff of his neck, his limbs dangling with a stunned face and letting KAITO hold him, despite being obviously able to touch the ground if he tried. Tsukasa just stood up, followed by no objections from KAITO.)"
+    nen "Hey, Emu, Rui looks like a cat."
+    em "{i}gasp{/i}, he does!! Hehe, he looks so funny like that."
+    "(After a chuckle, I turned back to my handbook. I vaguely saw Rui be dropped and fall into a proper sitting position. Dear god, he’s just like a cat…)"
+    "(The rules were fairly standard; hardly as threatening as the apathetic Miku on the stage. The rules were as followed:"
+    # possibly make this a reading thing? idk
+    ({i}{b}Rule #1:{/b}"Nighttime" is from 10 pm to 7 am. Some areas are off-limits at night, so please exercise caution.{/i})
+    ({i}{b}Rule #2:{/bWith minimal restrictions, you are free to explore this Kamiyama SEKAI at your discretion.{/i})
+    ({i}{b}Rule #3:{/b}Violence against headmaster Miku or the teachers is strictly prohibited, as is destruction of surveillance cameras.{/i})
+    # ... etc
+    
+    mik "In your handbook, you’ll find your dorm assignments. Your handbook acts as keys to your rooms, but we have backup keys if you get locked out. Or have a target in mind, fufufu~. We wont tell, of course!"
+    ko "…N-no! I- I refuse to participate!!"
+    mik "…Ms. Asuzawa, you absolutely {i}must{/i} participate in this. If you refuse, we’ll have you forcibly removed from the game."
+    ko "T-then remove me…! This is inhumane!!"
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     # This ends the game.
     return
