@@ -211,7 +211,7 @@ label start:
     ginger "What the hell are you talking about?! You can’t just trap us here, that’s illegal!"
     toy "Akito, I don’t think she cares. This isn’t our Miku…"
     "(Akito scowled at that, obviously holding himself back from saying more. I think kind Akito is still scarier, though.)"
-    ma "…Who’s "we"?"
+    ma "…Who’s we?"
     mik "Ah, of course! Ev~eryone~♪! It’s time for introductions~♪!"
     mik "These are the teachers during your stay here! Do any of you {i}not{/i} know who these people are? No? Good! I’m not trying to be here longer than I have to."
     kai "Miku."
