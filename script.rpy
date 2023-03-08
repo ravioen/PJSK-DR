@@ -212,7 +212,10 @@ label start:
     toy "Akito, I don’t think she cares. This isn’t our Miku…"
     "(Akito scowled at that, obviously holding himself back from saying more. I think kind Akito is still scarier, though.)"
     ma "…Who’s we?"
+    
+    # vs enters
     mik "Ah, of course! Ev~eryone~♪! It’s time for introductions~♪!"
+    # enters here
     mik "These are the teachers during your stay here! Do any of you {i}not{/i} know who these people are? No? Good! I’m not trying to be here longer than I have to."
     kai "Miku."
     mik "Oh, shut it, KAITO. Hows about you 5 hand out the handbooks {i}they{/i} took so long to make?"
@@ -221,6 +224,8 @@ label start:
     "((Luka went towards Leo/Need, and she seemed half asleep as she gave the 4 their handbooks. I think I even spotted them trading theirs as soon as they turned the strange devices on. Rin and Len, in a weird sync, passed out theirs to More More Jump! and Vivid Bad Squad respectively. Regrettably, KAITO passed out ours. MEIKO passed out N25’s with a smile that will haunt my dreams later.)"
     mik "I implore you to read the rules, as all of them have the same punishment for breaking them. Well, except for rules 1 and 2; those are just guidelines, to be honest. {i}Unless{/i} you make your way into one of the off limit areas. Then the punishment is the same as all the other rules!"
     "(I open up the weird contraption they’re calling our handbooks. It’s strangely advanced. I flipped to the rules section and was about to read it, when suddenly…)"
+    
+    # banter
     star "Rui, no!! We need these!!"
     "(I looked up to see Tsukasa struggling to hold Rui’s wrists away from the handbook that dropped on the floor, constantly having to grab one or the other again and again. I think he was trying to pull him away, but that’s…pretty hard. I still remember Rui carrying Nenerobo to me when she was finished…)"
     ru "{i}Tsukasa-kunnn!{/i} I have to see how this works! If we get out of here then—"
@@ -229,46 +234,59 @@ label start:
     nen "Hey, Emu, Rui looks like a cat."
     em "{i}gasp{/i}, he does!! Hehe, he looks so funny like that."
     "(After a chuckle, I turned back to my handbook. I vaguely saw Rui be dropped and fall into a proper sitting position. Dear god, he’s just like a cat…)"
+    
+    # rules
     "(The rules were fairly standard; hardly as threatening as the apathetic Miku on the stage. The rules were as followed:"
+    
     # possibly make this a reading thing? idk
-    ({i}{b}Rule #1:{/b}"Nighttime" is from 10 pm to 7 am. Some areas are off-limits at night, so please exercise caution.{/i})
-    ({i}{b}Rule #2:{/bWith minimal restrictions, you are free to explore this Kamiyama SEKAI at your discretion.{/i})
-    ({i}{b}Rule #3:{/b}Violence against headmaster Miku or the teachers is strictly prohibited, as is destruction of surveillance cameras.{/i})
+    # ({i}{b}Rule #1:{/b}"Nighttime" is from 10 pm to 7 am. Some areas are off-limits at night, so please exercise caution.{/i})
+    # ({i}{b}Rule #2:{/bWith minimal restrictions, you are free to explore this Kamiyama SEKAI at your discretion.{/i})
+    # ({i}{b}Rule #3:{/b}Violence against headmaster Miku or the teachers is strictly prohibited, as is destruction of surveillance cameras.{/i})
     # ... etc
     
     mik "In your handbook, you’ll find your dorm assignments. Your handbook acts as keys to your rooms, but we have backup keys if you get locked out. Or have a target in mind, fufufu~. We wont tell, of course!"
+    
+    # bye bye kohane
     ko "…N-no! I- I refuse to participate!!"
     mik "…Ms. Asuzawa, you absolutely {i}must{/i} participate in this. If you refuse, we’ll have you forcibly removed from the game."
     ko "T-then remove me…! This is inhumane!!"
+    mik "Rin, Len, would you mind restraining her?"
+    rin " Of course, Headmaster!"
+    len "We’d be happy to take care of the troublemaker!"
+    "(At the same time, they latch onto her forearms and lift her up. Though, Kohane refused to go down without a fight. I heard An call out to Kohane, telling her to stop, but it was no use. She kicked both “teachers” and tried to wrestle out of their grasp. Miku’s eyes narrowed behind her lectern.)"
+    mik "Rule number 3: Violence against Headmaster Miku or the teachers is strictly {i}prohibited.{/i}.” Kohane Asuzawa, instead of giving you detention as planned, we must instead choose expulsion. Rin, Len, hold her down. Anyone who has befriended her is permitted to say goodbye before we must expel her."
+    "(I watched as a crowd of people formed around the pinned Kohane. None of them were sad, but why would they just let a “rule breaker” get out? There has to be some consequence, right?)"
+    ru "You noticed it too, huh?"
+    nen "Mhm. Expulsion as we know it seems too…humane for them. What do you think expulsion means?"
+    ru "Based on what they want us to do? …Perhaps torture, or maybe they’ll just downright kill her."
+    nen "I...hope not. It sounds stupid out loud, but I can only hope that they’re more humane than we think, or this is just some sick joke."
+    ru "No, no, Nene, that isn’t stupid. I understand. Oh, it seems that everyone’s done…"
+    em "Nene-channn!!"
+    "(I almost fell with the impact of Emu’s tackle hug, but I managed to keep my balance, unlike Tsukasa. As I wrapped my hands around her, she turned up to face me.)"
+    em "I’ll miss her, but at least she gets to leave! Right, Nene-chan?"
+    nen "Ah- uhm- I- Yeah… Aren’t you worried about what expulsion means…?"
+    "(I saw Emu’s face fall. Did I…mess up?…)"
+    em "…Yeah, but at least she doesn’t have to see everyone die. At the very least, the last thing she got to see of her friends was all of our smiling faces, right Nene-chan?…"
+    nen "..Heh, I can always count on you to be positive in these situations."
+    mik "Alright, alright, disperse already! It’s time for Kohane Azusawa’s expulsion! I hope you all don’t mind watching; I need to make sure you all know what happens when you break the rules."
+    "(Her stern tone felt just as threatening as her bubbly self, and I can’t help but worry about the fact that she’ll be with us for the rest of our lives…)"
     
+    # oh no she dead. some bg type thing will go here. Probably some animation?
+    "(Once Kohane was released from the twins harsh grip on her arms and back and she began to stand up, her complexion went sickly pale and her eyes grew double in size. I faintly heard her breath hitch as the spears impaled her from the ground, shooting through everywhere in her torso and splattering blood in the surrounding area. Pools of blood gathered around her and soaked her clothing, dripping onto the floor, while her mouth remained agape.)"
+    "(The light in her eyes slowly began to fade as the pools of blood below her grew larger. The blood excreting from her mouth now ran down her chest, adding onto the ruin of her clothes. She shook, trying to move her arms for something to grab, but they refused to move. She could only twitch in place, as all of her blood leaked out of the several holes in her torso. As quickly as they came, the spears disappeared into the ground, leaving Kohane to fall to the floor mere moments after as if she were nothing but a doll; a simple plaything, a mere pawn in this twisted game of chess.)"
     
+    # nene begins panic
+    "(I heard An scream, I saw Mizuki wrap their arms and yell at An to stop, I heard Emu shriek, I saw Rui rush to comfort Tsukasa, I heard, I saw, I heard I saw I heard I saw I heardIsawIheardIsawIheardIsawIheardIsawIheardI-)"
+    "(It was too much. I clasped my hands over my ears, blocking out as much sound as I could while I squeezed my eyes shut. Please, stop. Please, please please please {i}please{/i}…)"
+    "(Why’d she have to disobey? Why’d she let herself get an expulsion? Why’d she attack the teachers? Why why {i}why{/i}?!)"
     
+    mik "{i} ATTENTION.{/i} My god, get over it, will ‘ya? Or at least get used to it, ‘cause I’m not stopping this because you’re all sad or whatever. Get up and head to your rooms, it’s currently 9 pm and we need to get to bed, m’kay? Great! Now, we need to clean this up, so get out!"
+    "(I stumbled out of the gym, somehow being able to find the exit despite the world spinning. Kohane’s death lingered in my mind; such a kind girl with a bright future, reduced to nothing. What fucking sicko would do this to us?)"
+    "(I swear, when I find out who did this, <i>I’ll fucking kill them myself.</i>)"
     
+    # dorms
+    "(I managed to balance myself against a wall, and forced myself to remember my dorm room. Room 1-P. It was obviously a repurposed classroom, but I don’t know how it would be changed. I didn’t even know there were so many classrooms…)"
+    "(As it turns out, they changed quite a lot. The rooms were completely changed, from a bathroom and a closet being present to the lack of any windows, and they were half the size of a normal classroom. I guess that’s the perks of using a SEKAI…)"
+    "(I could hardly convince myself to work on self care; I just curled up into a ball and drifted off as I tried to will my head to <i>just. stop. spinning</i>. The silence helped, my head calming down and memories of today slowly slipping away as I relaxed into the soft mattress and bedding. As the monitors flashed on with Miku cheerfully rambling about something about bedtime, my senses shut down and I fell asleep.)"
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    # This ends the game.
     return
